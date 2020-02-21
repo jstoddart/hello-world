@@ -1,6 +1,6 @@
 def say_bye():
 
-    raise Exception
+    print('Bye bye!')
 
 
 def say_hello():
@@ -11,6 +11,7 @@ def say_hello():
 def main():
 
     say_hello()
+    say_bye()
 
 
 if __name__ == "__main__":
