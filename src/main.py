@@ -1,3 +1,8 @@
+def say_bye():
+
+    raise Exception
+
+
 def say_hello():
 
     print('Hello world!')
